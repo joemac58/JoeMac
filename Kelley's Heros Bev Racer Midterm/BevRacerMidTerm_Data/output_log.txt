@@ -1,0 +1,190 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce GTS 250 (ID=0x615)
+    Vendor:   NVIDIA
+    VRAM:     495 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Kelley's Heros Bev Racer Midterm\BevRacerMidTerm_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Kelley's Heros Bev Racer Midterm\BevRacerMidTerm_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Kelley's Heros Bev Racer Midterm\BevRacerMidTerm_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Kelley's Heros Bev Racer Midterm\BevRacerMidTerm_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+desktop: 1280x768 60Hz; virtual: 1280x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.362123 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 149.
+Total: 0.523308 ms (FindLiveObjects: 0.017708 ms CreateObjectMapping: 0.011203 ms MarkObjects: 0.075894 ms  DeleteObjects: 0.054932 ms)
+
+UnloadTime: 0.379832 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.418502 ms (FindLiveObjects: 0.006866 ms CreateObjectMapping: 0.009757 ms MarkObjects: 0.062522 ms  DeleteObjects: 0.021684 ms)
+
+UnloadTime: 0.225514 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.376218 ms (FindLiveObjects: 0.005421 ms CreateObjectMapping: 0.008312 ms MarkObjects: 0.037947 ms  DeleteObjects: 0.002529 ms)
+
+UnloadTime: 0.355979 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 132.
+Total: 0.440186 ms (FindLiveObjects: 0.006866 ms CreateObjectMapping: 0.016624 ms MarkObjects: 0.066497 ms  DeleteObjects: 0.019877 ms)
+
+UnloadTime: 0.352004 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.449944 ms (FindLiveObjects: 0.006505 ms CreateObjectMapping: 0.010480 ms MarkObjects: 0.066859 ms  DeleteObjects: 0.043729 ms)
+
+UnloadTime: 0.340078 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.422477 ms (FindLiveObjects: 0.006505 ms CreateObjectMapping: 0.011926 ms MarkObjects: 0.067581 ms  DeleteObjects: 0.018792 ms)
+
+UnloadTime: 0.337548 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.419224 ms (FindLiveObjects: 0.006505 ms CreateObjectMapping: 0.013010 ms MarkObjects: 0.060715 ms  DeleteObjects: 0.020599 ms)
+
+UnloadTime: 0.348390 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.443077 ms (FindLiveObjects: 0.007589 ms CreateObjectMapping: 0.014094 ms MarkObjects: 0.082760 ms  DeleteObjects: 0.018792 ms)
+
+UnloadTime: 0.360316 ms
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 16.591188 ms (FindLiveObjects: 0.015540 ms CreateObjectMapping: 0.014817 ms MarkObjects: 0.093602 ms  DeleteObjects: 0.020599 ms)
+
+UnloadTime: 1.321642 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 137.
+Total: 2.670029 ms (FindLiveObjects: 0.008673 ms CreateObjectMapping: 0.016263 ms MarkObjects: 0.071557 ms  DeleteObjects: 2.242130 ms)
+
+UnloadTime: 0.406937 ms
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 555.
+Total: 0.681601 ms (FindLiveObjects: 0.021322 ms CreateObjectMapping: 0.019515 ms MarkObjects: 0.100108 ms  DeleteObjects: 0.179977 ms)
+
+UnloadTime: 2.191534 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 311 unused Assets to reduce memory usage. Loaded Objects now: 130.
+Total: 8.963100 ms (FindLiveObjects: 0.013010 ms CreateObjectMapping: 0.015540 ms MarkObjects: 0.061076 ms  DeleteObjects: 8.529058 ms)
+
+UnloadTime: 0.354534 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 151.
+Total: 0.430066 ms (FindLiveObjects: 0.007589 ms CreateObjectMapping: 0.011203 ms MarkObjects: 0.063245 ms  DeleteObjects: 0.027105 ms)
+
+UnloadTime: 0.404407 ms
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.481747 ms (FindLiveObjects: 0.014817 ms CreateObjectMapping: 0.017347 ms MarkObjects: 0.080953 ms  DeleteObjects: 0.029996 ms)
+
+UnloadTime: 0.694250 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 150.
+Total: 1.313691 ms (FindLiveObjects: 0.017708 ms CreateObjectMapping: 0.050234 ms MarkObjects: 0.078062 ms  DeleteObjects: 0.839895 ms)
+
+UnloadTime: 0.411635 ms
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 556.
+Total: 0.498733 ms (FindLiveObjects: 0.021322 ms CreateObjectMapping: 0.017708 ms MarkObjects: 0.098301 ms  DeleteObjects: 0.019515 ms)
+
+UnloadTime: 2.065766 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 311 unused Assets to reduce memory usage. Loaded Objects now: 130.
+Total: 5.422457 ms (FindLiveObjects: 0.013371 ms CreateObjectMapping: 0.014094 ms MarkObjects: 0.065413 ms  DeleteObjects: 4.960587 ms)
+
+UnloadTime: 0.405853 ms
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 556.
+Total: 0.514996 ms (FindLiveObjects: 0.021322 ms CreateObjectMapping: 0.019154 ms MarkObjects: 0.100469 ms  DeleteObjects: 0.029273 ms)
+
+UnloadTime: 2.208520 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 311 unused Assets to reduce memory usage. Loaded Objects now: 130.
+Total: 7.229461 ms (FindLiveObjects: 0.013371 ms CreateObjectMapping: 0.019154 ms MarkObjects: 0.070473 ms  DeleteObjects: 6.770844 ms)
+
+UnloadTime: 0.364653 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 151.
+Total: 0.437294 ms (FindLiveObjects: 0.007589 ms CreateObjectMapping: 0.013371 ms MarkObjects: 0.065413 ms  DeleteObjects: 0.027466 ms)
+
+UnloadTime: 0.405130 ms
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.467652 ms (FindLiveObjects: 0.014817 ms CreateObjectMapping: 0.019877 ms MarkObjects: 0.085290 ms  DeleteObjects: 0.022406 ms)
+
